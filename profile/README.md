@@ -1,7 +1,10 @@
 ## Purpose-built for product placement.
 ### Every loan tracked. Every product accounted for.
 
-Software **for the people who get products to set** (and into creators’ hands, and back again). The whole lifecycle, end to end. **We make it easy, fast, and powerful.**
+Software **for the people who get products to set** (and into creators’ hands, and back again).<br>
+The whole lifecycle, end to end. **We make it easy, fast, and powerful.**
+
+<br><br><br>
 
 <a href="https://propcode.tech/contact">
   <picture>
